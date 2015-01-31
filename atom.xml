@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://caraballofelix88.github.io/atom.xml" rel="self"/>
   <link href="http://caraballofelix88.github.io/"/>
-  <updated>2015-01-31T13:19:58-05:00</updated>
+  <updated>2015-01-31T13:49:58-05:00</updated>
   <id>http://caraballofelix88.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://caraballofelix88.github.io/blog/2015/01/31/first-post/"/>
+    <updated>2015-01-31T13:43:27-05:00</updated>
+    <id>http://caraballofelix88.github.io/blog/2015/01/31/first-post</id>
+    <content type="html"><![CDATA[<p>This is the first post of my new blog! I’m gonna try to write something new every week or so. Not sure what I’ll write about just yet, but I’ve gotta write something; I could definitely use the practice.</p>
+]]></content>
+  </entry>
   
 </feed>
